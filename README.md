@@ -1,4 +1,4 @@
-This is a copy of getmangos' CATA database, and will be used for educational purposes with the Mists of Pandaria server emulator, PandaWoW (not currently functional)
+This is a copy of getmangos' CATA database, and will be used for educational purposes with the Mists of Pandaria server emulator, PandaWoW (not functional and not likely to ever be)
 
 Original repo:
 
