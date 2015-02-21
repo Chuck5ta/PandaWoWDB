@@ -1,3 +1,7 @@
+This is a copy of getmangos' CATA database, and will be used for educational perposes with the Mists of Pandaria server emulator, PandaWoW (not currently functional)
+
+Original repo:
+
 [![](https://www.getmangos.eu/images/primus/blue/misc/logo.png)](http://www.getmangos.eu)&nbsp;
 [![](/icons/FORUM.gif)](https://www.getmangos.eu/forum.php)
 [![](/icons/WIKI.gif)](http://github.com/mangoswiki/wiki/wiki)
@@ -13,7 +17,7 @@ See the YTDB homepage for their license and copyright information.
 The YTDB homepage: ytdb.ru
 
 
-### A World Database for Vanilla / Classic Wow
+### A World Database for CATA and MoP WoW
 ----
 A content database for [**MangosThree**][10], and [**World of Warcraft**][50] Client Patch
 4.3.4a - [_WoW 4.3.4a_][51].
