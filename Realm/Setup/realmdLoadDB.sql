@@ -24,7 +24,7 @@ DROP TABLE IF EXISTS `realmd_db_version`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `realmd_db_version` (
   `required_20140607_Realm_Resync` bit(1) DEFAULT NULL
-) ENGINE=InnoDB DEFAULT CHARSET=utf8 ROW_FORMAT=FIXED COMMENT='Last applied sql update to DB';
+) ENGINE=InnoDB DEFAULT CHARSET=utf8 COMMENT='Last applied sql update to DB';
 /*!40101 SET character_set_client = @saved_cs_client */;
 
 --
